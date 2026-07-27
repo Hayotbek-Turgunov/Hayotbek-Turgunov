@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="portret.png" alt="Hayotbek Turgunov — neofetch" width="900"/>
+<img src="portret_2.png" alt="Hayotbek Turgunov — neofetch" width="900"/>
 
 </div>
 
