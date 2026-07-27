@@ -1,12 +1,4 @@
-<div align="center">
 
-# 👋 Salom! Men Hayotbek Turgunov
-
-### Full-Stack Developer · Go · Node.js · React · Next.js · Vue
-
-</div>
-
----
 
 ```console
 hayotbek@github:~$ neofetch
